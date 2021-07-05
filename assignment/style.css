@@ -6,4 +6,13 @@ header {
 
 main{
   background-color: #D3D3D3;
+  text-align: center;
+  padding: 1em;
+}
+
+body {
+  background-image: url(record.png);
+  background-position: center;
+  background-repeat: repeat;
+  margin: 0;
 }
